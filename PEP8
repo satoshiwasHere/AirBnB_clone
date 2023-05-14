@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import random
 
 num = radom.randint(1369, 3696)
