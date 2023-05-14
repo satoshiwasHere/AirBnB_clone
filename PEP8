@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-import random
 
-num = radom.randint(1369, 3696)
-
-print(num)
+def hello_techfam():
+    """Print a friendly greeting."""
+    print("Hello, techfam")
