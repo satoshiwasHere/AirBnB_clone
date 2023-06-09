@@ -1,5 +1,0 @@
-#!/usr/bin/python3
-
-def hello_techfam():
-    """Print a friendly greeting."""
-    print("Hello, techfam")
